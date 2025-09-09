@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "firstfirebase-aeb9d": {
+      "hosting": {
+        "danotes": [
+          "firstfirebase-aeb9d"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "firstfirebase-aeb9d"
+  }
+}
